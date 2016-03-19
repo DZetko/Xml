@@ -1,4 +1,4 @@
-#Xml ##by DZetko
+#Xml by DZetko
 Simple XML parser library
 
 ##License
