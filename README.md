@@ -1,8 +1,8 @@
 #Xml by DZetko
-Simple XML parser library for C#
+Simple XML parser library for C#.
 
 ##Download and installation
-Download can be performed using NuGet Package Manager -> Package Manager Console built into Visual Studio. Just type in **Install-Package 'DZetko.Xml'** and hit enter.
+Download can be performed using NuGet Package Manager Console built into Visual Studio. Just type in **Install-Package 'DZetko.Xml'** and hit enter.
 
 ##License
 The MIT License (MIT)
