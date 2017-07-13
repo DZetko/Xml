@@ -9,7 +9,7 @@ Download can be performed using NuGet Package Manager Console built into Visual 
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2015 Daniel Zikmund
+Copyright (c) 2015-2017 Daniel Zikmund
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
