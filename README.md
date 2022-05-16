@@ -1,7 +1,7 @@
 # Xml by DZetko
 [![Build status](https://ci.appveyor.com/api/projects/status/mjvlhi9r3mjqr7oi?svg=true)](https://ci.appveyor.com/project/DZetko/xml)
 
-Simple but powerful XML parser library for C#.
+Simple XML parser library for C#.
 
 ## Download and installation
 Download can be performed using NuGet Package Manager Console built into Visual Studio. Just type in **Install-Package 'DZetko.Xml'** and hit enter.
